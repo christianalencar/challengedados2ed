@@ -1,4 +1,4 @@
 Lista de Arquivos:
 
-- Código criado no Google Colab;
-- Imagem Novexus
+- Código criado no Google Colab - CDS_2ed_Novexus.jpynb;
+- Imagem Novexus - Logo(6).png.
