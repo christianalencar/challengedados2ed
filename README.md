@@ -5,7 +5,7 @@
 | :sparkles: Nome:       | Novexus
 | :label: Tecnologias:| Google Colab, Python
 | :rocket: URL:        | https://christianalencar.github.io/challengedados2ed/
-| :fire: Desafio:    | Alura - Ciência de dados
+| :fire: Desafio:    | Alura - Challenge Dados - 2 Edição
 
 Premissas: 
 
