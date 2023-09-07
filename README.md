@@ -9,7 +9,7 @@
 
 ## Premissas: <br>
 
-![Novexus](https://github.com/christianalencar/challengedados2ed/assets/100319396/c12088ad-c94f-420c-a3a8-754eaa654f6a) <br>
+![Novexus](https://github.com/christianalencar/challengedados2ed/assets/100319396/c12088ad-c94f-420c-a3a8-754eaa654f6a) #vitrinedev <br>
 
 
 "Você é a pessoa contratada como cientista de dados pela operadora de telecomunicações Novexus. Na reunião inicial com as pessoas responsáveis pela área de vendas da empresa, foi explicada a importância de reduzir a Taxa de Evasão de Clientes, também conhecida como Churn Rate.
