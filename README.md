@@ -54,7 +54,11 @@ Realizar uma análise gráfica para compreender quais variáveis podem estar rel
 
 Base de dados usada: https://challenge-data-science-3ed.s3.amazonaws.com/Telco-Customer-Churn.json
 
-## Status: Em Construção, fica de olho:eyes: <br>
+# Status do Projeto:
 
-![Octocat - 04-09-2023](https://github.com/christianalencar/challengedados2ed/assets/100319396/7ef5d2fd-b7fc-4230-8d6f-35ceaa68d669)
+### Semana 1 - Finalizado em 07/09/2023 <br>
+### Semana 2 - Em andamento <br>
+### Semana 3 - No aguardo <br>
+### Semana 4 - No aguardo <br>
 
+<img align="center" width="40%" src="https://github.com/christianalencar/challengedados2ed/assets/100319396/7ef5d2fd-b7fc-4230-8d6f-35ceaa68d669">
