@@ -54,11 +54,20 @@ Realizar uma análise gráfica para compreender quais variáveis podem estar rel
 
 Base de dados usada: https://challenge-data-science-3ed.s3.amazonaws.com/Telco-Customer-Churn.json
 
-# Status do Projeto:
+## :fast_forward: Semana 2 : Machine Learning
 
-### Semana 1 - Finalizado em 07/09/2023 <br>
-### Semana 2 - Em andamento <br>
-### Semana 3 - No aguardo <br>
-### Semana 4 - No aguardo <br>
+*Verificação de Balanceamento da Variável Target*
+
+Nós examinamos minuciosamente a variável-alvo, como um detetive investigando pistas secretas, para verificar se ela estava em equilíbrio. Entretanto, nossas investigações revelaram que os dados estavam inclinados para um lado. Diante desse desafio desequilibrado, adotamos uma tática ousada: aplicamos o método de Under Sampling, como se estivéssemos seguindo as pistas de um artigo misterioso intitulado "Desvendando o Enigma do Desbalanceamento de Dados".
+
+*Modelos de Machine Learning Criados*
+
+Durante esta fase, foram implementados três modelos diferentes para solucionar o problema de classificação:
+
+-> Random Forest
+-> Regressão Logística
+-> XGBoost
+
+A adoção de diversos modelos de aprendizado de máquina possibilitou a condução de experimentos sólidos, propiciando uma investigação mais aprofundada das métricas de classificação.
 
 <img align="center" width="40%" src="https://github.com/christianalencar/challengedados2ed/assets/100319396/7ef5d2fd-b7fc-4230-8d6f-35ceaa68d669">
