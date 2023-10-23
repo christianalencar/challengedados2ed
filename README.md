@@ -71,3 +71,8 @@ Durante esta fase, foram implementados três modelos diferentes para solucionar 
 A adoção de diversos modelos de aprendizado de máquina possibilitou a condução de experimentos sólidos, propiciando uma investigação mais aprofundada das métricas de classificação.
 
 <img align="center" width="40%" src="https://github.com/christianalencar/challengedados2ed/assets/100319396/7ef5d2fd-b7fc-4230-8d6f-35ceaa68d669">
+
+
+Agradecimento em espécial a Sarah Aroucha, que sem a instrução dela não teria avançado neste projeto.
+
+Sigam ela aqui no Github https://github.com/SarahBarbosa
